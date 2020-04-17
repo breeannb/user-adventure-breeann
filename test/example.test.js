@@ -16,7 +16,7 @@ test('makes a user object in plain js from form data', function(assert) {
         name: 'breeann',
         class: 'zoo',
         completed: {},
-        HP: 50, 
+        hp: 50, 
         tigers: 0, 
     };
     //Act 
