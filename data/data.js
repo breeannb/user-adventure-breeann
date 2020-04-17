@@ -39,7 +39,7 @@ const joeexotic = {
 // for Carol Baskin
 const carolbaskin = { 
     id: 'carolbaskin', 
-    title: 'Joe Exotic', 
+    title: 'Carol Baskin', 
     map: {
         top: '89%', 
         left: '44%'
